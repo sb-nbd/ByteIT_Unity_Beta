@@ -1,6 +1,6 @@
 # 🎮 Unity Mini-Game: ETTI Collector (Roll-a-Ball Extension)
 
-This is a custom extension of the classic **"Roll-a-Ball"** Unity tutorial project. The player controls a sphere and must collect letters in the correct order to form **"ETTI"**, while avoiding distractions and dynamically moving obstacles.
+This is a custom extension of the classic **"Roll-a-Ball"** Unity tutorial project. The player controls a sphere and must collect letters in the correct order to form **"ETTI"**, while avoiding distractions and dynamically moving obstacles. To play it, download both parts, extract in the same directory and run "My project.exe"
 
 ---
 
