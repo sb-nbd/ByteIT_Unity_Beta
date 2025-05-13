@@ -41,7 +41,7 @@ Collect the letters **E → T → T → I** in the correct sequence.
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshot & Demo
 
 ![Gameplay Screenshot](image_2025-03-14_102841571.png)
 ![Byte_IT Demo](Byte_IT.gif)
